@@ -1,1 +1,1 @@
-# C-126-Live-Image-Prediction
+# Pro-C126-Project-Realtime-Image-Detection
